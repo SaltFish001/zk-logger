@@ -1,0 +1,23 @@
+{
+  "name": "zk-logger",
+  "version": "0.0.1",
+  "description": "for zhikan's project logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaltFish001/zk-logger.git"
+  },
+  "keywords": [
+    "Zhikan",
+    "logger"
+  ],
+  "author": "SaltFish <liuyaopeng@techzk.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaltFish001/zk-logger/issues"
+  },
+  "homepage": "https://github.com/SaltFish001/zk-logger#readme"
+}
