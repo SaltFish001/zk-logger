@@ -1,6 +1,6 @@
 {
   "name": "zk-logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "for zhikan's project logger",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/SaltFish001/zk-logger/issues"
   },
-  "homepage": "https://github.com/SaltFish001/zk-logger#readme"
+  "homepage": "https://github.com/SaltFish001/zk-logger#readme",
+  "dependencies": {
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2"
+  }
 }
