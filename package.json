@@ -1,6 +1,6 @@
 {
   "name": "@zhikan/zk-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "for zhikan's project logger",
   "main": "index.js",
   "scripts": {
